@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Review4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\bridgelabz_assignments\\c#lastweek\\Review4\\Review4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3893FB68-A4CD-40B7-ACBD-BF462C75E2D9}|FileHandling\\FileHandling.csproj|c:\\users\\admin\\source\\repos\\review4\\filehandling\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3893FB68-A4CD-40B7-ACBD-BF462C75E2D9}|FileHandling\\FileHandling.csproj|solutionrelative:filehandling\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3893FB68-A4CD-40B7-ACBD-BF462C75E2D9}|FileHandling\\FileHandling.csproj|c:\\users\\admin\\source\\repos\\review4\\filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3893FB68-A4CD-40B7-ACBD-BF462C75E2D9}|FileHandling\\FileHandling.csproj|solutionrelative:filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3893FB68-A4CD-40B7-ACBD-BF462C75E2D9}|FileHandling\\FileHandling.csproj|c:\\users\\admin\\source\\repos\\review4\\filehandling\\demo1csv.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3893FB68-A4CD-40B7-ACBD-BF462C75E2D9}|FileHandling\\FileHandling.csproj|solutionrelative:filehandling\\demo1csv.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4049E4DF-3DF1-4E98-90F3-CDC1C55936BB}|Review4\\Review4.csproj|c:\\users\\admin\\source\\repos\\review4\\review4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4049E4DF-3DF1-4E98-90F3-CDC1C55936BB}|Review4\\Review4.csproj|solutionrelative:review4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4049E4DF-3DF1-4E98-90F3-CDC1C55936BB}|Review4\\Review4.csproj|c:\\users\\admin\\source\\repos\\review4\\review4\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4049E4DF-3DF1-4E98-90F3-CDC1C55936BB}|Review4\\Review4.csproj|solutionrelative:review4\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4049E4DF-3DF1-4E98-90F3-CDC1C55936BB}|Review4\\Review4.csproj|c:\\users\\admin\\source\\repos\\review4\\review4\\review4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4049E4DF-3DF1-4E98-90F3-CDC1C55936BB}|Review4\\Review4.csproj|solutionrelative:review4\\review4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3893FB68-A4CD-40B7-ACBD-BF462C75E2D9}|FileHandling\\FileHandling.csproj|c:\\users\\admin\\source\\repos\\review4\\filehandling\\filehandling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3893FB68-A4CD-40B7-ACBD-BF462C75E2D9}|FileHandling\\FileHandling.csproj|solutionrelative:filehandling\\filehandling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\bridgelabz_assignments\\c#lastweek\\Review4\\Review4\\Program.cs",
+              "ToolTip": "E:\\bridgelabz_assignments\\c#lastweek\\Review4\\Review4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:41:54.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "demo1csv.csv",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Review4\\FileHandling\\demo1csv.csv",
+              "RelativeDocumentMoniker": "FileHandling\\demo1csv.csv",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Review4\\FileHandling\\demo1csv.csv",
+              "RelativeToolTip": "FileHandling\\demo1csv.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-02-03T09:07:39.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Review4\\FileHandling\\Student.cs",
+              "RelativeDocumentMoniker": "FileHandling\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Review4\\FileHandling\\Student.cs",
+              "RelativeToolTip": "FileHandling\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:53:21.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileHandling.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Review4\\FileHandling\\FileHandling.csproj",
+              "RelativeDocumentMoniker": "FileHandling\\FileHandling.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Review4\\FileHandling\\FileHandling.csproj",
+              "RelativeToolTip": "FileHandling\\FileHandling.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T08:51:05.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Review4\\FileHandling\\Program.cs",
+              "RelativeDocumentMoniker": "FileHandling\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Review4\\FileHandling\\Program.cs",
+              "RelativeToolTip": "FileHandling\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:51:02.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Review4.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Review4\\Review4\\Review4.csproj",
+              "RelativeDocumentMoniker": "Review4\\Review4.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Review4\\Review4\\Review4.csproj",
+              "RelativeToolTip": "Review4\\Review4.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T08:40:48.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Review4\\Review4\\FileSizeException.cs",
+              "RelativeDocumentMoniker": "Review4\\FileSizeException.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Review4\\Review4\\FileSizeException.cs",
+              "RelativeToolTip": "Review4\\FileSizeException.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:25:01.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Review4\\Review4\\Program.cs",
+              "RelativeDocumentMoniker": "Review4\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Review4\\Review4\\Program.cs",
+              "RelativeToolTip": "Review4\\Program.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAIwKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:43:11.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
