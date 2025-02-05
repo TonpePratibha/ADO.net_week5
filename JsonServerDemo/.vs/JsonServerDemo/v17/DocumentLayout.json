@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\JsonServerDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29D6519D-9A35-4D2B-B35F-BDF38884AFF5}|EmplyeeJsonServer\\EmplyeeJsonServer.csproj|c:\\users\\admin\\source\\repos\\jsonserverdemo\\emplyeejsonserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D6519D-9A35-4D2B-B35F-BDF38884AFF5}|EmplyeeJsonServer\\EmplyeeJsonServer.csproj|solutionrelative:emplyeejsonserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D6519D-9A35-4D2B-B35F-BDF38884AFF5}|EmplyeeJsonServer\\EmplyeeJsonServer.csproj|c:\\users\\admin\\source\\repos\\jsonserverdemo\\emplyeejsonserver\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D6519D-9A35-4D2B-B35F-BDF38884AFF5}|EmplyeeJsonServer\\EmplyeeJsonServer.csproj|solutionrelative:emplyeejsonserver\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D6519D-9A35-4D2B-B35F-BDF38884AFF5}|EmplyeeJsonServer\\EmplyeeJsonServer.csproj|c:\\users\\admin\\source\\repos\\jsonserverdemo\\emplyeejsonserver\\employeejson.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29D6519D-9A35-4D2B-B35F-BDF38884AFF5}|EmplyeeJsonServer\\EmplyeeJsonServer.csproj|solutionrelative:emplyeejsonserver\\employeejson.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B152AC10-13CE-4106-AD7F-CE6542DC148E}|JsonServerDemo\\JsonServerDemo.csproj|c:\\users\\admin\\source\\repos\\jsonserverdemo\\jsonserverdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B152AC10-13CE-4106-AD7F-CE6542DC148E}|JsonServerDemo\\JsonServerDemo.csproj|solutionrelative:jsonserverdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B152AC10-13CE-4106-AD7F-CE6542DC148E}|JsonServerDemo\\JsonServerDemo.csproj|c:\\users\\admin\\source\\repos\\jsonserverdemo\\jsonserverdemo\\demojson.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B152AC10-13CE-4106-AD7F-CE6542DC148E}|JsonServerDemo\\JsonServerDemo.csproj|solutionrelative:jsonserverdemo\\demojson.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B152AC10-13CE-4106-AD7F-CE6542DC148E}|JsonServerDemo\\JsonServerDemo.csproj|c:\\users\\admin\\source\\repos\\jsonserverdemo\\jsonserverdemo\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B152AC10-13CE-4106-AD7F-CE6542DC148E}|JsonServerDemo\\JsonServerDemo.csproj|solutionrelative:jsonserverdemo\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B152AC10-13CE-4106-AD7F-CE6542DC148E}|JsonServerDemo\\JsonServerDemo.csproj|c:\\users\\admin\\source\\repos\\jsonserverdemo\\jsonserverdemo\\jsonserverdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B152AC10-13CE-4106-AD7F-CE6542DC148E}|JsonServerDemo\\JsonServerDemo.csproj|solutionrelative:jsonserverdemo\\jsonserverdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B152AC10-13CE-4106-AD7F-CE6542DC148E}|JsonServerDemo\\JsonServerDemo.csproj|c:\\users\\admin\\source\\repos\\jsonserverdemo\\jsonserverdemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B152AC10-13CE-4106-AD7F-CE6542DC148E}|JsonServerDemo\\JsonServerDemo.csproj|solutionrelative:jsonserverdemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "notes.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\JsonServerDemo\\JsonServerDemo\\notes.txt",
+              "RelativeDocumentMoniker": "JsonServerDemo\\notes.txt",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\JsonServerDemo\\JsonServerDemo\\notes.txt",
+              "RelativeToolTip": "JsonServerDemo\\notes.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-05T10:50:18.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employeejson.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\JsonServerDemo\\EmplyeeJsonServer\\Employeejson.json",
+              "RelativeDocumentMoniker": "EmplyeeJsonServer\\Employeejson.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\JsonServerDemo\\EmplyeeJsonServer\\Employeejson.json",
+              "RelativeToolTip": "EmplyeeJsonServer\\Employeejson.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T10:44:15.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\JsonServerDemo\\EmplyeeJsonServer\\Employee.cs",
+              "RelativeDocumentMoniker": "EmplyeeJsonServer\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\JsonServerDemo\\EmplyeeJsonServer\\Employee.cs",
+              "RelativeToolTip": "EmplyeeJsonServer\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:33:01.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\JsonServerDemo\\EmplyeeJsonServer\\Program.cs",
+              "RelativeDocumentMoniker": "EmplyeeJsonServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\JsonServerDemo\\EmplyeeJsonServer\\Program.cs*",
+              "RelativeToolTip": "EmplyeeJsonServer\\Program.cs*",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwFYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:32:35.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "demojson.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\JsonServerDemo\\JsonServerDemo\\demojson.json",
+              "RelativeDocumentMoniker": "JsonServerDemo\\demojson.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\JsonServerDemo\\JsonServerDemo\\demojson.json",
+              "RelativeToolTip": "JsonServerDemo\\demojson.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T10:10:23.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JsonServerDemo",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\JsonServerDemo\\JsonServerDemo\\JsonServerDemo.csproj",
+              "RelativeDocumentMoniker": "JsonServerDemo\\JsonServerDemo.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\JsonServerDemo\\JsonServerDemo\\JsonServerDemo.csproj",
+              "RelativeToolTip": "JsonServerDemo\\JsonServerDemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T08:36:43.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\JsonServerDemo\\JsonServerDemo\\Employee.cs",
+              "RelativeDocumentMoniker": "JsonServerDemo\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\JsonServerDemo\\JsonServerDemo\\Employee.cs",
+              "RelativeToolTip": "JsonServerDemo\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:36:56.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\JsonServerDemo\\JsonServerDemo\\Program.cs",
+              "RelativeDocumentMoniker": "JsonServerDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\JsonServerDemo\\JsonServerDemo\\Program.cs",
+              "RelativeToolTip": "JsonServerDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:02:16.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

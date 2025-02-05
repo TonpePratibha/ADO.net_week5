@@ -1,0 +1,70 @@
+
+json server installation and running comands
+
+
+
+
+
+
+C:\Users\Admin\source\repos\JsonServerDemo\JsonServerDemo>npm install -g json-server
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'milliparsec@4.0.0',
+npm WARN EBADENGINE   required: { node: '>=20' },
+npm WARN EBADENGINE   current: { node: 'v18.16.0', npm: '9.5.1' }
+npm WARN EBADENGINE }
+
+added 45 packages in 18s
+
+14 packages are looking for funding
+  run `npm fund` for details
+npm notice
+npm notice New major version of npm available! 9.5.1 -> 11.1.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.1.0
+npm notice Run npm install -g npm@11.1.0 to update!
+npm notice
+
+C:\Users\Admin\source\repos\JsonServerDemo\JsonServerDemo>cd ..
+
+C:\Users\Admin\source\repos\JsonServerDemo>cd ..
+
+C:\Users\Admin\source\repos>cd ..
+
+C:\Users\Admin\source>cd ..
+
+C:\Users\Admin>npm install -g json-server
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'milliparsec@4.0.0',
+npm WARN EBADENGINE   required: { node: '>=20' },
+npm WARN EBADENGINE   current: { node: 'v18.16.0', npm: '9.5.1' }
+npm WARN EBADENGINE }
+
+changed 45 packages in 2s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+C:\Users\Admin>cd C:\\Users\\Admin\\source\\repos\\JsonServerDemo
+
+C:\Users\Admin\source\repos\JsonServerDemo>json-server --watch demojson.json
+--watch/-w can be omitted, JSON Server 1+ watches for file changes by default
+File demojson.json not found
+
+C:\Users\Admin\source\repos\JsonServerDemo>cd JsonServerDemo
+
+C:\Users\Admin\source\repos\JsonServerDemo\JsonServerDemo>json-server --watch demojson.json
+--watch/-w can be omitted, JSON Server 1+ watches for file changes by default
+JSON Server started on PORT :3000
+Press CTRL-C to stop
+Watching demojson.json...
+
+♡( ◡‿◡ )
+
+Index:
+http://localhost:3000/
+
+Static files:
+Serving ./public directory if it exists
+
+Endpoints:
+http://localhost:3000/users
+
