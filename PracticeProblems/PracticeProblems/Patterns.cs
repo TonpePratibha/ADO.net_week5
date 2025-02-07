@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -94,6 +95,25 @@ namespace PracticeProblems
                 Console.WriteLine();
             }
         }
+        public static void Triangle(int n) {
+            for (int i = 0; i < n; i++) {
+                //space
+                for (int j = 0; j < n - i - 1; j++) {
 
+                    Console.Write(" ");
+                }
+
+                for (int j = 0; j < 2 * i + 1; j++) { 
+                Console.Write("*");
+                }
+
+                for (int j = 0; j < n - i - 1; j++)
+                {
+
+                    Console.Write(" ");
+                }
+                Console.WriteLine();
+            }
+        }
     }
 }

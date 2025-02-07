@@ -10,6 +10,7 @@ internal class Program
         // Patterns.halfTriangle(n);
         // Patterns.halfNumTriangle(n);
         // Patterns.ReversePattern(n);
-        Patterns.Reversenum(n);
+        //Patterns.Reversenum(n);
+        Patterns.Triangle(n);
     }
 }
