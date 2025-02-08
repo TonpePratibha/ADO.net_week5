@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\bridgelabz_assignments\\ado.netanddelegates\\Review5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64C8A4D3-CE34-475A-A13D-E7782336977E}|TplOperations\\TplOperations.csproj|e:\\bridgelabz_assignments\\ado.netanddelegates\\review5\\tploperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C8A4D3-CE34-475A-A13D-E7782336977E}|TplOperations\\TplOperations.csproj|solutionrelative:tploperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88502C76-31E5-4CF3-AC0A-72BBF0227F88}|CalculatorTest\\CalculatorTest.csproj|e:\\bridgelabz_assignments\\ado.netanddelegates\\review5\\calculatortest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88502C76-31E5-4CF3-AC0A-72BBF0227F88}|CalculatorTest\\CalculatorTest.csproj|solutionrelative:calculatortest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F91F9C3-2BA7-4468-91F4-B75184447481}|Review5\\Review5.csproj|e:\\bridgelabz_assignments\\ado.netanddelegates\\review5\\review5\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F91F9C3-2BA7-4468-91F4-B75184447481}|Review5\\Review5.csproj|solutionrelative:review5\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F91F9C3-2BA7-4468-91F4-B75184447481}|Review5\\Review5.csproj|e:\\bridgelabz_assignments\\ado.netanddelegates\\review5\\review5\\invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F91F9C3-2BA7-4468-91F4-B75184447481}|Review5\\Review5.csproj|solutionrelative:review5\\invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F91F9C3-2BA7-4468-91F4-B75184447481}|Review5\\Review5.csproj|e:\\bridgelabz_assignments\\ado.netanddelegates\\review5\\review5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F91F9C3-2BA7-4468-91F4-B75184447481}|Review5\\Review5.csproj|solutionrelative:review5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F91F9C3-2BA7-4468-91F4-B75184447481}|Review5\\Review5.csproj|e:\\bridgelabz_assignments\\ado.netanddelegates\\review5\\review5\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F91F9C3-2BA7-4468-91F4-B75184447481}|Review5\\Review5.csproj|solutionrelative:review5\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F91F9C3-2BA7-4468-91F4-B75184447481}|Review5\\Review5.csproj|e:\\bridgelabz_assignments\\ado.netanddelegates\\review5\\review5\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F91F9C3-2BA7-4468-91F4-B75184447481}|Review5\\Review5.csproj|solutionrelative:review5\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\bridgelabz_assignments\\ado.netanddelegates\\Review5\\TplOperations\\Program.cs",
+              "RelativeDocumentMoniker": "TplOperations\\Program.cs",
+              "ToolTip": "E:\\bridgelabz_assignments\\ado.netanddelegates\\Review5\\TplOperations\\Program.cs",
+              "RelativeToolTip": "TplOperations\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:51:20.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\bridgelabz_assignments\\ado.netanddelegates\\Review5\\CalculatorTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CalculatorTest\\UnitTest1.cs",
+              "ToolTip": "E:\\bridgelabz_assignments\\ado.netanddelegates\\Review5\\CalculatorTest\\UnitTest1.cs",
+              "RelativeToolTip": "CalculatorTest\\UnitTest1.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:32:25.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "E:\\bridgelabz_assignments\\ado.netanddelegates\\Review5\\Review5\\Calculator.cs",
+              "RelativeDocumentMoniker": "Review5\\Calculator.cs",
+              "ToolTip": "E:\\bridgelabz_assignments\\ado.netanddelegates\\Review5\\Review5\\Calculator.cs",
+              "RelativeToolTip": "Review5\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:29:40.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvalidAgeException.cs",
+              "DocumentMoniker": "E:\\bridgelabz_assignments\\ado.netanddelegates\\Review5\\Review5\\InvalidAgeException.cs",
+              "RelativeDocumentMoniker": "Review5\\InvalidAgeException.cs",
+              "ToolTip": "E:\\bridgelabz_assignments\\ado.netanddelegates\\Review5\\Review5\\InvalidAgeException.cs",
+              "RelativeToolTip": "Review5\\InvalidAgeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:17:32.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Node.cs",
+              "DocumentMoniker": "E:\\bridgelabz_assignments\\ado.netanddelegates\\Review5\\Review5\\Node.cs",
+              "RelativeDocumentMoniker": "Review5\\Node.cs",
+              "ToolTip": "E:\\bridgelabz_assignments\\ado.netanddelegates\\Review5\\Review5\\Node.cs",
+              "RelativeToolTip": "Review5\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T05:55:09.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "E:\\bridgelabz_assignments\\ado.netanddelegates\\Review5\\Review5\\Stack.cs",
+              "RelativeDocumentMoniker": "Review5\\Stack.cs",
+              "ToolTip": "E:\\bridgelabz_assignments\\ado.netanddelegates\\Review5\\Review5\\Stack.cs",
+              "RelativeToolTip": "Review5\\Stack.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T05:54:48.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\bridgelabz_assignments\\ado.netanddelegates\\Review5\\Review5\\Program.cs",
+              "RelativeDocumentMoniker": "Review5\\Program.cs",
+              "ToolTip": "E:\\bridgelabz_assignments\\ado.netanddelegates\\Review5\\Review5\\Program.cs",
+              "RelativeToolTip": "Review5\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwEkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T05:22:13.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
