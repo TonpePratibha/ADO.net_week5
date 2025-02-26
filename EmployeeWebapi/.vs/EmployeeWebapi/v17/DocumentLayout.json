@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|e:\\bridgelabz_assignments\\employeewebapi\\employeewebapi\\employeewebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|solutionrelative:employeewebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|e:\\bridgelabz_assignments\\employeewebapi\\employeewebapi\\employeewebapi\\dataaccesslayer\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|solutionrelative:employeewebapi\\dataaccesslayer\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|e:\\bridgelabz_assignments\\employeewebapi\\employeewebapi\\employeewebapi\\dataaccesslayer\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|solutionrelative:employeewebapi\\dataaccesslayer\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|e:\\bridgelabz_assignments\\employeewebapi\\employeewebapi\\employeewebapi\\buisnesslayer\\employeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|solutionrelative:employeewebapi\\buisnesslayer\\employeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|e:\\bridgelabz_assignments\\employeewebapi\\employeewebapi\\employeewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|solutionrelative:employeewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|e:\\bridgelabz_assignments\\employeewebapi\\employeewebapi\\employeewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|solutionrelative:employeewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|e:\\bridgelabz_assignments\\employeewebapi\\employeewebapi\\employeewebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|solutionrelative:employeewebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|e:\\bridgelabz_assignments\\employeewebapi\\employeewebapi\\employeewebapi\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|solutionrelative:employeewebapi\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|e:\\bridgelabz_assignments\\employeewebapi\\employeewebapi\\employeewebapi\\employeewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|solutionrelative:employeewebapi\\employeewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|e:\\bridgelabz_assignments\\employeewebapi\\employeewebapi\\employeewebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC0B9C1-BF2A-4188-8314-1A2D4A5FCE40}|EmployeeWebapi\\EmployeeWebapi.csproj|solutionrelative:employeewebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeWebapi\\Entities\\Employee.cs",
+              "ToolTip": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeWebapi\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:38:21.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeWebapi\\Program.cs",
+              "ToolTip": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\Program.cs",
+              "RelativeToolTip": "EmployeeWebapi\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:26:08.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeWebapi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\Controllers\\EmployeeController.cs*",
+              "RelativeToolTip": "EmployeeWebapi\\Controllers\\EmployeeController.cs*",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:12:45.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeBLL.cs",
+              "DocumentMoniker": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\BuisnessLayer\\EmployeeBLL.cs",
+              "RelativeDocumentMoniker": "EmployeeWebapi\\BuisnessLayer\\EmployeeBLL.cs",
+              "ToolTip": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\BuisnessLayer\\EmployeeBLL.cs",
+              "RelativeToolTip": "EmployeeWebapi\\BuisnessLayer\\EmployeeBLL.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:46:35.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeWebapi.csproj",
+              "DocumentMoniker": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\EmployeeWebapi.csproj",
+              "RelativeDocumentMoniker": "EmployeeWebapi\\EmployeeWebapi.csproj",
+              "ToolTip": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\EmployeeWebapi.csproj",
+              "RelativeToolTip": "EmployeeWebapi\\EmployeeWebapi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T14:51:18.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeWebapi\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeWebapi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T14:46:06.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\DataAccessLayer\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeWebapi\\DataAccessLayer\\EmployeeRepository.cs",
+              "ToolTip": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\DataAccessLayer\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeWebapi\\DataAccessLayer\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:48:29.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDAL.cs",
+              "DocumentMoniker": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\DataAccessLayer\\EmployeeDAL.cs",
+              "RelativeDocumentMoniker": "EmployeeWebapi\\DataAccessLayer\\EmployeeDAL.cs",
+              "ToolTip": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\DataAccessLayer\\EmployeeDAL.cs",
+              "RelativeToolTip": "EmployeeWebapi\\DataAccessLayer\\EmployeeDAL.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAlwCEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:49:36.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeWebapi\\appsettings.json",
+              "ToolTip": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\appsettings.json",
+              "RelativeToolTip": "EmployeeWebapi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T14:28:44.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "EmployeeWebapi\\WeatherForecast.cs",
+              "ToolTip": "E:\\bridgelabz_assignments\\Employeewebapi\\EmployeeWebapi\\EmployeeWebapi\\WeatherForecast.cs",
+              "RelativeToolTip": "EmployeeWebapi\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:22:30.142Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
